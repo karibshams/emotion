@@ -148,7 +148,7 @@ This project aligns with the *BanglaMixEmotion* research, which introduced a lar
 
 ## 💬 Contact
 **Author:** Karib Shams  
-📧 [shams321karib.com]  
+📧 [shams321karib@gmail.com]  
 💼 [LinkedIn / Portfolio Link]
 
 ---
